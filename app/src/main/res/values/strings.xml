@@ -1,13 +1,16 @@
 <resources>
     <string name="app_name">Email Presets</string>
-    <string name="label_recipient">Recipients: Separate by comma</string>
+    <string name="label_recipient">Recipients</string>
     <string name="label_subject">Subject</string>
     <string name="label_body">Content</string>
     <string name="button_send">Send email</string>
     <string name="button_test">Test email</string>
-    <string name="button_add_to_home">Add to home</string>
+    <string name="button_save_and_pin">Add to home &amp; save</string>
     <string name="button_save">Save</string>
-    <string name="shortcut_short">Send</string>
-    <string name="shortcut_long">Send preset</string>
-    <string name="shortcut_disabled">Disabled</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_pin">Add to home</string>
+    <string name="button_edit">Edit</string>
+    <string name="button_remove">Remove</string>
+    <string name="button_new_preset">New preset</string>
+    <string name="error_recipients">Invalid addresses</string>
 </resources>

@@ -1,7 +1,9 @@
 Todo:
 
-- [ ] Check email address validity
+- [x] Check email address validity
 - [ ] Select addresses from contacts
-- [ ] Save in-app
+- [x] Save in-app
 - [ ] Improve dark design
-- [ ] Translation
+- [x] Translation
+- [ ] Custom preset names
+- [x] Icon

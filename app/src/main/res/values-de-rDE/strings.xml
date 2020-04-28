@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">E-Mail Presets</string>
+    <string name="label_recipient">Empfänger</string>
+    <string name="label_subject">Betreff</string>
+    <string name="label_body">Inhalt</string>
+    <string name="button_send">E-Mail senden</string>
+    <string name="button_test">Testen</string>
+    <string name="button_save">Speichern</string>
+    <string name="button_save_and_pin">Anheften &amp; speichern</string>
+    <string name="button_cancel">Abbrechen</string>
+    <string name="button_new_preset">Neues Preset</string>
+    <string name="error_recipients">Bitte Formattierung überprüfen</string>
+    <string name="button_pin">Anheften</string>
+    <string name="button_edit">Bearbeiten</string>
+    <string name="button_remove">Entfernen</string>
+</resources>
