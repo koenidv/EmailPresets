@@ -7,3 +7,4 @@ Todo:
 - [x] Translation
 - [ ] Custom preset names
 - [x] Icon
+- [ ] Last used recipients
